@@ -1,3 +1,6 @@
+## Note 
+This is a fork. The original can be found at https://github.com/jmnuf/A_Star_Algorithm.
+
 # A* Algorithm Implementation
 
 ## Description
